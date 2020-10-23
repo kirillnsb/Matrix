@@ -1,4 +1,4 @@
-package matrixworker;
+package kirillnsb.matrixworker;
 
 public interface IMatrixWorker {
     public void print(double[][] m);
